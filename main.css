@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: cyan;
+}
+img{
+    border: solid;
+    border-width: 5px;
+    border-radius: 50px;
+    width: 250px;
+}
+p{
+    font-size:25px;
+}
+h1{
+    font-size: 40px;
+    color:darkgreen;
+}
